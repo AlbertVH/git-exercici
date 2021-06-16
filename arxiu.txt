@@ -1,7 +1,6 @@
 arxiu prova 
 
-<<<<<<< HEAD
 --- canvi afegir al MAIN ---
-=======
+
 --- això és BRANCH1 ---
->>>>>>> branch1
+
